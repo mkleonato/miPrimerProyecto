@@ -1,1 +1,2 @@
 aprender a programar en javascript
+mejorar la manera de programar 
