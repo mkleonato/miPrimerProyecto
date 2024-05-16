@@ -1,1 +1,2 @@
 programación en R
+algo de python de master kschool en DataScience en 2018 (pero no he usado mucho python)
